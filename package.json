@@ -1,0 +1,19 @@
+{
+  "name": "zboy",
+  "version": "1.0.0",
+  "description": "A JavaScript Game Boy emulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbeach/zboy.git"
+  },
+  "author": "Zack Beach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zbeach/zboy/issues"
+  },
+  "homepage": "https://github.com/zbeach/zboy#readme"
+}
